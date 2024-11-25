@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there :laught:
 
 <!--
 **Manuuuu777/Manuuuu777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>This is the first line.<br>
-And this is the second line.</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
